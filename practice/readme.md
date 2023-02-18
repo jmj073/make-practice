@@ -1,0 +1,1 @@
+[여기](https://mug896.github.io/make-script/index.html)를 참고하여 작성.
